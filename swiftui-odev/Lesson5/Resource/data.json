@@ -1,0 +1,36 @@
+{
+    "tag": {
+        "origin": "Tolkien Legendarium",
+        "focus": "Orta Dünya'nın özgür halkları",
+        "era": "3. Çağ"
+    },
+    "people": [
+        {
+            "country": "Gondor",
+            "capital": "Minas Trith",
+            "id": 10001,
+            "isActive": true,
+            "members": [
+                { "id": 1, "name": "Denethor", "description": "Gondor vekilharcı" },
+                { "id": 2, "name": "Boromir", "description": "Gondor na-vekilharcı, prens" },
+                { "id": 3, "name": "Faramir", "description": "Gondor prensi" },
+                { "id": 4, "name": "Peregrin Took", "description": "Hobbit, Gondor kraliyet silahtarı" },
+                { "id": 5, "name": "Aragorn", "description": "Gondor'un gerçek kralı, Numenor varisi" }
+            ]
+        },
+        {
+            "country": "Rohan",
+            "capital": "Edoras",
+            "id": 10002,
+            "isActive": true,
+            "members": [
+                { "id": 1, "name": "Theoden", "description": "Rohan kralı" },
+                { "id": 2, "name": "Eomer", "description": "Rohan varisi, prensi" },
+                { "id": 3, "name": "Eowyn", "description": "Rohan prensesi" },
+                { "id": 4, "name": "Theodred", "description": "Theoden'in merhum oğlu. Eski Rohan varisi" },
+                { "id": 5, "name": "Meriadoc Brandybuck", "description": "Hobbit, Rohan kralı silahtarı" }
+            ]
+        }
+        
+    ]
+}
