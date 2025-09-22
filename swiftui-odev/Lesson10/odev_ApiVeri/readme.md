@@ -1,0 +1,4 @@
+-Pokemon Api kullanıldı
+-Pokemon Api Api key istemediği için api key boş geçildi. 
+-Listelemede Pokemon resimleri ile isimleri listelendi. 
+-Liste üstüne İsme göre Pokemon arama eklendi.
